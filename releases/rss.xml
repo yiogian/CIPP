@@ -7,6 +7,7 @@
         <lastBuildDate>Fri, 18 Mar 2022 11:03:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <language>en-GB</language>
         <copyright>Copyright © 2022 CyberDrain</copyright>
         <item>
             <title><![CDATA[CIPP - v2.3.0]]></title>
